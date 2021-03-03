@@ -1,0 +1,27 @@
+app-nav-bar {
+    position: fixed;
+    width: -webkit-fill-available;
+    overflow: hidden;
+    /* padding: 90px 10px; */
+    top: 0;
+    z-index: 99;
+}
+
+#parallax {
+    position: fixed;
+    z-index: -1;
+    bottom: 0px; 
+    right: 0px;
+    /* width: 100px;
+    height: 100px; */
+}
+
+.header-image {
+    width: 100vw;
+    height: 50vh;
+}
+
+.container {
+    display: flex;
+    margin-top: 19%;
+}

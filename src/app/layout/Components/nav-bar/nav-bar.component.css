@@ -1,0 +1,20 @@
+.navbar-brand {
+    margin-left: 5%;
+    font-family: 'Impact';
+    color: black;
+}
+
+.nav-link {
+    font-family: 'Mulish', sans-serif;
+    color: black;
+}
+
+ul {
+    margin-left: 35%;
+}
+
+button {
+    margin-right: 8%;
+    background: green;
+    color: white;
+}

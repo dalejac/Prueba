@@ -1,0 +1,59 @@
+.suscribe-box {
+    display: flex;
+    background: #0472A1;
+    color: #ffff;
+    width: 110vw;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+h4 {
+    font-family: 'Impact';
+    font-size: 3rem;
+}
+
+.suscribe-box > p {
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+}
+
+.small-box {
+    padding: 30px;
+    margin-left: 30px;
+    width: 32%;
+}
+
+.row {
+    background: #2A3042;
+    color: #ffff;
+    width: 110vw;
+    padding: 40px;
+}
+
+form {
+    margin-left: 20px;
+    align-self: flex-end;
+    margin-bottom: 50px;
+}
+
+input {
+    width: 542px;
+    height: 40px;
+    border-radius: 6px;
+    border-color: #0472A1;
+}
+
+.btn {
+    background-color: #ffff;
+    border-radius: 4px;
+    color: #0472A1;
+    margin-left: 5px;
+}
+
+.logo-foot {
+    margin-bottom: 50px;
+}
+
+.link-secondary {
+    color: #ffff;
+}

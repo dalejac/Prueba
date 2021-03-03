@@ -1,0 +1,72 @@
+header {
+    display: flex;
+}
+
+.title-box {
+    align-self: flex-end;
+    margin-left: 20px
+}
+
+h1 {
+    font-family: 'Impact';
+    align-self: center;
+}
+
+img {
+    width: 160px;
+}
+
+p {
+    font-family: 'Mulish', sans-serif;
+    margin-bottom: 10px;
+}
+
+.legend {
+    color: grey;
+}
+
+.text {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+video {
+    width: 700px;
+    height: 400px;
+}
+
+.img-profile {
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.warning {
+    background: #C7E5CF;
+    color: #26A346;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.profile {
+    width: 134px;
+    margin-right: 34px
+}
+
+.btn-reply {
+    background-color: #0472A1;
+    color: #ffff;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin-left: 79%;
+    width: 110px;
+}
+

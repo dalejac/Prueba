@@ -1,0 +1,76 @@
+.side-box {
+    margin-left: 35px;
+}
+
+header {
+    background: #FFFF;
+    border-radius: 6px 6px 0 0;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.subtitles {
+    font-size: 25px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+}
+
+.tag {
+    border-radius: 4px;
+    border-color: #3279cc;
+    color: #3279cc;
+    background: white;
+    margin: 5px; 
+    padding: 5px;
+}
+
+.box {
+    display: flex;
+    margin: 12px;
+    background: #FFFF;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+.boxish {
+    display: flex;
+    background: #FFFF;
+    border-radius: 10px;
+    width: 183px;
+    align-items: center;
+}
+
+.icons {
+    background: #e74a20;
+    border-radius: 4px;
+    height: fit-content;
+}
+
+.content-box {
+    margin-left: 10px;
+}
+
+.access {
+    border-radius: 5px;
+    border-color: green;
+    color: green;
+    background: white;
+    width: 85px;
+    height: 36px;
+}
+
+.vectors {
+    border-radius: 100px;
+    background: #e74a20;
+    height: fit-content;
+    margin-left: 25px;
+}
+
+

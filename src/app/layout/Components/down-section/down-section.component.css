@@ -1,0 +1,20 @@
+.container {
+    font-family: 'Mulish', sans-serif;
+    margin-top: 15px;;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.cards-container {
+    display: flex;
+}
+
+.cards {
+    margin: 8px;
+    background: #FFFFFF;
+    box-shadow: 1px solid grey;
+}
